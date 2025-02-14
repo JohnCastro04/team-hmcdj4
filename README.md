@@ -1,2 +1,2 @@
-# hola-mundo-cdj4
-Repositorio para realizar pruebas
+# team-hmcdj4
+Primer repositorio hola-mundo para realizar pruebas.
